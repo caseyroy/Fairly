@@ -1,0 +1,15 @@
+.job-skills-table {
+  justify-self: left;
+  /* table-layout: fixed; */
+  margin-left: 0;
+}
+.job-skillsTableHeader {
+  width: 150px;
+  overflow: hidden;
+}
+.jobTitle {
+  cursor: pointer;
+}
+.skillText {
+  cursor: default;
+}
